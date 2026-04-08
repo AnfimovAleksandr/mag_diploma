@@ -1,0 +1,7 @@
+generation_type;method;imse_mean;imse_sem;imae_mean;imae_sem;maxerr_mean;maxerr_sem;bandwidth_mean;bandwidth_std;n_valid2
+deterministic;silverman;2,135;0,101;1,121;0,023;2,015;0,082;0,950;0,182;259
+deterministic;5-fold cv;1,363;0,062;0,948;0,020;1,796;0,059;66,515;69,194;269
+deterministic;loocv;1,354;0,061;0,949;0,020;1,765;0,052;69,194;68,196;271
+stochastic;silverman;2,635;0,146;1,191;0,028;2,228;0,113;0,964;0,204;262
+stochastic;5-fold cv;1,438;0,063;0,974;0,021;1,777;0,053;65,212;70,833;264
+stochastic;loocv;1,408;0,059;0,975;0,021;1,760;0,049;67,044;70,630;264
