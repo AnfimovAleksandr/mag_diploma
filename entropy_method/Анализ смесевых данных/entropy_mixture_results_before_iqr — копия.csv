@@ -1,0 +1,3 @@
+generation_type;method;n_total;n_valid;n_outliers_removed;imse_mean;imse_sem;imae_mean;imae_sem;maxerr_mean;maxerr_sem
+deterministic;entropy;600;300;0;3,718;1,589;1,123;0,047;2,415;0,253
+stochastic;entropy;600;300;0;3,153;0,794;1,151;0,040;2,465;0,204
